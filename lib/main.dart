@@ -1,3 +1,4 @@
+import 'package:community/core/utils/app_router.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -9,6 +10,6 @@ class Community extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp.router();
+    return MaterialApp.router(routerConfig: AppRouter.router);
   }
 }
