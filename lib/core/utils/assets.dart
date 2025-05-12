@@ -22,6 +22,10 @@ class Assets {
   /// assets/images/ai_background.svg
   static const String imagesAiBackground = "assets/images/ai_background.svg";
 
+  /// Assets for imagesAudio
+  /// assets/images/audio.svg
+  static const String imagesAudio = "assets/images/audio.svg";
+
   /// Assets for imagesAvatar
   /// assets/images/avatar.svg
   static const String imagesAvatar = "assets/images/avatar.svg";
@@ -50,6 +54,10 @@ class Assets {
   /// assets/images/beckground_frontend.svg
   static const String imagesBeckgroundFrontend = "assets/images/beckground_frontend.svg";
 
+  /// Assets for imagesBlob
+  /// assets/images/Blob.svg
+  static const String imagesBlob = "assets/images/Blob.svg";
+
   /// Assets for imagesBookmarkIcon
   /// assets/images/bookmark_icon.svg
   static const String imagesBookmarkIcon = "assets/images/bookmark_icon.svg";
@@ -57,6 +65,10 @@ class Assets {
   /// Assets for imagesCategoriesIcon
   /// assets/images/categories_icon.svg
   static const String imagesCategoriesIcon = "assets/images/categories_icon.svg";
+
+  /// Assets for imagesContinueCourse
+  /// assets/images/Continue_course.png
+  static const String imagesContinueCourse = "assets/images/Continue_course.png";
 
   /// Assets for imagesCourse
   /// assets/images/course.svg
