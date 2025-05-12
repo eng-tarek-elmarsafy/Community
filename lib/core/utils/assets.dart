@@ -125,5 +125,21 @@ class Assets {
   /// Assets for imagesStars
   /// assets/images/stars.svg
   static const String imagesStars = "assets/images/stars.svg";
+
+  /// Assets for imagesVactor2
+  /// assets/images/vactor2.svg
+  static const String imagesVactor2 = "assets/images/vactor2.svg";
+
+  /// Assets for imagesVactor3
+  /// assets/images/vactor3.svg
+  static const String imagesVactor3 = "assets/images/vactor3.svg";
+
+  /// Assets for imagesVactor4
+  /// assets/images/vactor4.svg
+  static const String imagesVactor4 = "assets/images/vactor4.svg";
+
+  /// Assets for imagesVector1
+  /// assets/images/vector1.svg
+  static const String imagesVector1 = "assets/images/vector1.svg";
 }
 
