@@ -1,5 +1,6 @@
 import 'package:community/core/utils/app_style.dart';
 import 'package:community/core/widget/height.dart';
+import 'package:community/feature/home/presntaion/models/top_categories_card_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
@@ -41,15 +42,3 @@ class TopCategoriesCard extends StatelessWidget {
   }
 }
 
-class TopCategoriesCardModel {
-  TopCategoriesCardModel({
-    required this.imagesBeckground,
-    required this.image,
-    required this.title,
-    required this.color,
-  });
-  final String imagesBeckground;
-  final String image;
-  final String title;
-  final Color color;
-}

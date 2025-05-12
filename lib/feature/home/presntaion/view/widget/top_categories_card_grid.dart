@@ -1,5 +1,6 @@
 import 'package:community/core/utils/assets.dart';
 import 'package:community/core/utils/colors.dart';
+import 'package:community/feature/home/presntaion/models/top_categories_card_model.dart';
 import 'package:community/feature/home/presntaion/view/widget/top_categories_card.dart';
 import 'package:flutter/material.dart';
 
